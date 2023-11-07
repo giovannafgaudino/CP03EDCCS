@@ -58,7 +58,7 @@
 
 
 </div>
-
+<div align="normal">
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
@@ -80,3 +80,4 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 <br>
 
 ⚠️ <b> Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. </b>
+</div>
