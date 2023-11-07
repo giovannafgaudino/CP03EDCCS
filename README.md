@@ -37,7 +37,7 @@
 </table>
 
 
-<img scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/main/CP03.png" align="right">
+<img scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/main/CP03.pnggi" align="right">
 <div align="left">
 
 <b> - Tabela com o hardware do circuito TinkerCad </b>
