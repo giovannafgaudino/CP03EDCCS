@@ -1,3 +1,6 @@
+// Sistema referente a 'CP03.jpg';
+// Monitora estoque e condições ambientes. 
+
 int pinoLDR = A0;
 int tempSensor = A1;
 int umidSensor = A2;

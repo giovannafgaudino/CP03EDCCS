@@ -1,3 +1,5 @@
+//Circuito refere a 'CP03.2.jpg';
+// Código para a parte LCD baseado nos dados do 'tinkercad1.c++'
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
