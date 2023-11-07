@@ -16,13 +16,16 @@
             <th>Alunos:</th>
           </tr>
           <tr>
-            <th>Giovanna Franco Gaudino Rodrigues</th>
+            <th> Giovanna Franco Gaudino Rodrigues</th>
           </tr>
           <tr>
-            <th>Beatriz Dantas Sampaio</th>
+            <th> Guilherme Santiago </th>
           </tr>
           <tr>
-            <th>Isabela Barcellos Freire</th>
+            <th> Gustavo Gouvêa </th>
+          </tr>
+          <tr>
+            <th> Gabriel Souza Fiori </th>
           </tr>
         </table>
       </div>
@@ -45,10 +48,11 @@
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
 | 2          | Arduino Uno R3                |
-| 2          | Vermelho LED                  |
-| 2          | Amarelo LED                   |
-| 2          | Verde LED                     |
-| 8          | 220 Ω Resistor                |
+| 4          | Vermelho LED                  |
+| 1          | Amarelo LED                   |
+| 1          | Verde LED                     |
+| 6          | 220 Ω Resistor                |
+| 1          | 10 Ω Resistor                 |
 | 1          | Fotorresistor (LDR)           |
 | 1          | Potenciômetro                 |
 | 1          | Sensor de Temperatura         |
