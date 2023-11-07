@@ -36,8 +36,8 @@
   </tr>
 </table>
 
-<div align="right">
-<img height="390em" scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/5f0bb545cdd894199f00590c5b81e8d540309762" alt="Sistema circuito" />
+
+<img height="390em" scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/5f0bb545cdd894199f00590c5b81e8d540309762" alt="Sistema circuito" align="right" />
 <div align="left">
 
 <b> - Tabela com o hardware do circuito TinkerCad </b>
@@ -58,7 +58,7 @@
 
 
 </div>
-<div align="normal">
+
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
@@ -80,4 +80,4 @@ Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consul
 <br>
 
 ⚠️ <b> Caso você use outras entradas para os componentes, favor lembrar de atualizar seu código com as entradas corretas. </b>
-</div>
+
