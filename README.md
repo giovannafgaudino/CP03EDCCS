@@ -37,23 +37,24 @@
 </table>
 
 
-<img scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/main/CP03.pnggi" align="right">
+<img scr="https://github.com/giovannafgaudino/CP03EDCCS/blob/main/Tinker%20Cad/CP03.3.png" align="right">
 <div align="left">
 
 <b> - Tabela com o hardware do circuito TinkerCad </b>
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
-| 1          | Arduino Uno R3                |
+| 2          | Arduino Uno R3                |
 | 2          | Vermelho LED                  |
 | 2          | Amarelo LED                   |
 | 2          | Verde LED                     |
-| 7          | 220 Ω Resistor                |
+| 8          | 220 Ω Resistor                |
 | 1          | Fotorresistor (LDR)           |
 | 1          | Potenciômetro                 |
 | 1          | Sensor de Temperatura         |
 | 1          | Sensor Ultrassônico           |
-| 1          | Buzeer |
+| 1          | Buzeer                        |
+| 1          | LCD                           |
 
 
 </div>
