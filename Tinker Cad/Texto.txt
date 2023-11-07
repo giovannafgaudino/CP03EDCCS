@@ -1,0 +1,7 @@
+Para incluir o LDR, tive que utlizar dois arduinos. 
+
+O código com título "tinkercad1" se refere ao sistema que monitora estoque e condições ambientais. 
+https://www.tinkercad.com/things/3e72xIx4DkZ-checkpoint-03-edge-computing-and-computer-systems/editel 
+
+O código com nome "tinkercad2" se refere ao sistema com LCD de acordo com o dados fornecidos pelo sistema 1. 
+https://www.tinkercad.com/things/6tuEdnxXkHQ-copy-of-codigo-lcd/editel?tenant=circuits
