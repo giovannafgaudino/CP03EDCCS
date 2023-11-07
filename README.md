@@ -19,13 +19,13 @@
             <th> Giovanna Franco Gaudino Rodrigues</th>
           </tr>
           <tr>
-            <th> Guilherme Santiago </th>
+            <th>! </th>
           </tr>
           <tr>
-            <th> Gustavo Gouvêa </th>
+            <th>! </th>
           </tr>
           <tr>
-            <th> Gabriel Souza Fiori </th>
+            <th>! </th>
           </tr>
         </table>
       </div>
@@ -40,7 +40,6 @@
 </table>
 
 
-<img height="390em" scr="/CP03.3.jpg" alt="Sistema circuito" align="right" />
 <div align="left">
 
 <b> - Tabela com o hardware do circuito TinkerCad </b>
@@ -51,7 +50,7 @@
 | 4          | Vermelho LED                  |
 | 1          | Amarelo LED                   |
 | 1          | Verde LED                     |
-| 6          | 220 Ω Resistor                |
+| 7          | 220 Ω Resistor                |
 | 1          | 10 Ω Resistor                 |
 | 1          | Fotorresistor (LDR)           |
 | 1          | Potenciômetro                 |
@@ -60,6 +59,25 @@
 | 1          | Buzeer                        |
 | 1          | LCD                           |
 
+</div>
+
+<div align="right">
+<b> - Tabela com o hardware do circuito no Arduino - Hands On </b>
+
+| Quantidade | Descrição                     |
+| ---------- | ----------------------------- |
+| 2          | Arduino Uno R3                |
+| 4          | Vermelho LED                  |
+| 1          | Amarelo LED                   |
+| 1          | Verde LED                     |
+| 7          | 220 Ω Resistor                |
+| 1          | 10 Ω Resistor                 |
+| 1          | Fotorresistor (LDR)           |
+| 1          | DHT11                         |
+| 1          | Sensor Ultrassônico           |
+| 1          | Potenciômetro                 |
+| 1          | Buzeer                        |
+| 1          | LCD                           |
 
 </div>
 
